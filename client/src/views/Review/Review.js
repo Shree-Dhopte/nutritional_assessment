@@ -1,11 +1,12 @@
-import React from 'react'
+import Navbar from './../../components/Navbar/Navbar';
+import './Review.css';
 
 function Review() {
   return (
     <div>
-      hie
+      <Navbar />
     </div>
-  )
+  );
 }
 
-export default Review
+export default Review;
